@@ -1,0 +1,56 @@
+{
+  "success":true,
+  "data":
+  [
+    {
+      "title":"Book 1",
+      "author":"Autor anonimo",
+      "price":"$50.00"
+    },
+    {
+      "title":"Book 2",
+      "author":"Autor anonimo",
+      "price":"$60.00"
+    },
+    {
+      "title":"Book 3",
+      "author":"Autor anonimo",
+      "price":"$70.00"
+    },
+    {
+      "title":"Book 4",
+      "author":"Autor anonimo",
+      "price":"$80.00"
+    },
+    {
+      "title":"Book 5",
+      "author":"Autor anonimo",
+      "price":"$90.00"
+    },
+    {
+      "title":"Book 6",
+      "author":"Autor anonimo",
+      "price":"$110.00"
+    },
+    {
+      "title":"Book 7",
+      "author":"Autor anonimo",
+      "price":"$120.00"
+    },
+    {
+      "title":"Book 8",
+      "author":"Autor anonimo",
+      "price":"$130.00"
+    },
+    {
+      "title":"Book 9",
+      "author":"Autor anonimo",
+      "price":"$140.00"
+    },
+    {
+      "title":"Book 10",
+      "author":"Autor anonimo",
+      "price":"$150.00"
+    }
+  ]
+}
